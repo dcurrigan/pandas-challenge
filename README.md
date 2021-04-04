@@ -1,5 +1,5 @@
 # PyCitySchools
-> Created by Dale Currigan, April 2021
+> Created by Dale Currigan, April 2021  
 > Week four Pandas Homework 
 
 ![education](PyCitySchools/Resources/education.png)
@@ -18,7 +18,9 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-
+Some examples of the output tables generated from the PyCitySchools analysis:
+![school_summary](PyCitySchools/Resources/school_summary.png)
+![math_by_grade](PyCitySchools/Resources/math_by_grade.png)
 
 ## Technologies
 * Tech 1 - version 1.0
