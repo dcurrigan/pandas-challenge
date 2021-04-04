@@ -24,7 +24,7 @@ Some examples of the output tables generated from the PyCitySchools analysis:
 * The School Summmary Analysis:    
 ![school_summary](PyCitySchools/Resources/school_summary.png)  
 
-* The Breakdown of Math scores by school grade
+* The Breakdown of Math scores by school grade  
 ![math_by_grade](PyCitySchools/Resources/math_by_grade.png)  
 
 ## Setup
@@ -33,10 +33,6 @@ Some examples of the output tables generated from the PyCitySchools analysis:
 * A resources folder is also present which contains the necessary base data
 * Once PyCitySchools.ipynb is loaded as a Jupyter Notebook, Select *Restart & Run All* from Kernel menu 
 * The Notebook can now be navigated using the links to observe the data analysis
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
 
 ## Features
 The following analyses are included in PyCitySchools:  
