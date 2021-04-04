@@ -2,7 +2,7 @@
 > Created by Dale Currigan, April 2021  
 > Week four Pandas Homework 
 
-![education](PyCitySchools/Resources/education.png)
+!(PyCitySchools/Resources/education.png)
 
 ## Table of contents
 * [General info](#general-info)
@@ -19,7 +19,7 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Screenshots
 Some examples of the output tables generated from the PyCitySchools analysis:
-![school_summary](PyCitySchools/Resources/school_summary.png)
+!(PyCitySchools/Resources/school_summary.png)
 ![math_by_grade](PyCitySchools/Resources/math_by_grade.png)
 
 ## Technologies
