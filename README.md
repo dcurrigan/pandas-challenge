@@ -22,10 +22,10 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 Some examples of the output tables generated from the PyCitySchools analysis:  
   
 * The School Summmary Analysis:    
-![school_summary](PyCitySchools/Resources/school_summary.png?raw=true)  
+![Education](PyCitySchools/Resources/school_summary.png)  
 
 * The Breakdown of Math scores by school grade  
-![math_by_grade](PyCitySchools/Resources/math_by_grade.png?raw=true)  
+![Education](PyCitySchools/Resources/math_by_grade.png)  
 
 ## Setup
 * Open the PyCitySchools directory
