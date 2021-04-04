@@ -6,8 +6,8 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
+
+
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
@@ -15,20 +15,25 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This project provides and analysis of school standardised test result. The briefing note was as follows:  
+*Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.  
+As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance*  
 
 ## Screenshots
-Some examples of the output tables generated from the PyCitySchools analysis:
-!(PyCitySchools/Resources/school_summary.png)
-![math_by_grade](PyCitySchools/Resources/math_by_grade.png)
+Some examples of the output tables generated from the PyCitySchools analysis:  
+  
+* The School Summmary Analysis:    
+![school_summary](PyCitySchools/Resources/school_summary.png)  
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* The Breakdown of Math scores by school grade
+![math_by_grade](PyCitySchools/Resources/math_by_grade.png)  
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+* Open the PyCitySchools directory
+* This contains the PyCitySchools.ipynb which can be opened as a Jupyter Notebook
+* A resources folder is also present which contains the necessary base data
+* Once PyCitySchools.ipynb is loaded as a Jupyter Notebook, Select *Restart & Run All* from Kernel menu 
+* The Notebook can now be navigated using the links to observe the data analysis
 
 ## Code Examples
 Show examples of usage:
