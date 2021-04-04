@@ -6,12 +6,10 @@
 
 ## Table of contents
 * [General info](#general-info)
-
-
+* [Screenshots](#Screenshots)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -40,20 +38,21 @@ Show examples of usage:
 `put-your-code-here`
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+The following analyses are included in PyCitySchools:  
+  
+* District Summary
+* School Summary
+* Top Performing Schools
+* Bottoming Performing Schools
+* Average Math Score by Grade
+* Average Reading Score by Grade
+* Scores by School Spending
+* Scores by School Size
+* Scores by School Type
+* Conclusions
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
+Project is: completed
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Dale Currigan - dcurrigan@gmail.com
