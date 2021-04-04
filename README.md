@@ -2,7 +2,7 @@
 > Created by Dale Currigan, April 2021  
 > Week four Pandas Homework 
 
-!(PyCitySchools/Resources/education.png)
+![Education](PyCitySchools/Resources/education.png)
 
 ## Table of contents
 * [General info](#general-info)
